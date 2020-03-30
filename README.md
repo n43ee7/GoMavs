@@ -1,8 +1,8 @@
-# GoMavs
+# GoMavs  🐎 💻
 (Cloning soon remove tag when done)
  
-## Accepting your UTA admission offer in style 🐎
-Automation scripts that will accept your offer for you while you record it 💻 or just chill.
+## Accepting your UTA admission offer in style 
+Automation scripts that will accept your offer for you while you record it or just chill.
 _______________________________________________________________________________________________
 ___Overview of files and contents___
 
