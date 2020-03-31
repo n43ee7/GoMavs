@@ -14,13 +14,12 @@ __Note: Complete the XPath to the 'accept' button.__
 _______________________________________________________________________________________________
 ## Supported platforms
 
-* Windows 7/8/10
-* Chrome version 80 or later
+* Windows 7/8/10 with Chrome version 80 or later,  Python 3.x or later and Wolfram Mathematica _(optional if you are willing to retrain the classifier)_
 
 _______________________________________________________________________________________________
 # Installation
 
-## Install dependencies using requirements.txt
+## Installing Python dependencies using requirements.txt
 Move to virtual enviorment (if any) and use the following command to install the project dependencies.
 (Make sure you have pip3 and Python3.x installed on your machine)
 
