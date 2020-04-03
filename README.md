@@ -6,8 +6,8 @@ Automation scripts that will accept your offer for you while you record it or ju
 _______________________________________________________________________________________________
 ___Overview of files and contents___
 
-## 1) Automation method (Straight forward automated)
-__Note: Complete the XPath to the 'accept' button.__
+## 1) Automation method (File name: Automation_Method.py)
+This script is indipendent of any machine learning libraries and focuses on direct automation and web control to  do the job. The navigation throughout the script is done in XML XPaths for the elements and entities on the website. _If you recieve any errors please update all xpaths for the website_. 
  
 ##### 
 
@@ -27,3 +27,6 @@ Move to virtual enviorment (if any) and use the following command to install the
 
 ## Installing project folder
 Clone this repository and 
+
+## Disclaimer!
+The contents of this repository are purely designed for educational purposes with motives for others to learn and seek aid for their projects. Every user advised to exercise caution during the run-time of this program as any malfunctions could caused by the script may lead to any action that could lead to unknown conclusions. Please __use at your own risk__ and ensure all code parameters before running.
