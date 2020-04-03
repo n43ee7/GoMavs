@@ -1,0 +1,6 @@
+Since UTA admissions dashboard (MyMavs portal) uses Oracle PeopleSoft Fluid UX for the dashboard I developed my custom dataset for the icons by 
+accessing the Doccumentation (Link Below) to create two different datasets for the types of buttons they have in the system panel
+
+https://docs.oracle.com/cd/E65859_01/fluid_ux/buttons.html
+
+Run dataset.py first to adjust the datasets and then compile and train the classifier 
