@@ -31,5 +31,6 @@ Move to virtual enviorment (if any) and use the following command to install the
 ## Installing project folder
 Clone this repository and 
 
+_________________________________________________________________________________________________
 ## Disclaimer!
 The contents of this repository are purely designed for educational purposes with motives for others to learn and seek aid for their projects. Every user advised to exercise caution during the run-time of this program as any malfunctions could caused by the script may lead to any action that could lead to unknown conclusions. Please __use at your own risk__ and ensure all code parameters before running.
