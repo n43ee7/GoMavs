@@ -1,7 +1,7 @@
 # GoMavs  🐎 💻
 (add Travis CL tags before rollout)
  
-## Accepting your UTA admission offer in style 
+### Be a Maverick 
 Automation scripts that will accept your offer for you while you record it or just chill.
 _______________________________________________________________________________________________
 ___Overview of files and contents___
