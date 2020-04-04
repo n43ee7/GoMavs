@@ -6,7 +6,8 @@ Automation scripts that will accept your offer for you while you record it or ju
 _______________________________________________________________________________________________
 ___Overview of files and contents___
 
-## 1) Automation method (File name: Automation_Method.py)
+## 1) Automation method 
+__(File name: Automation_Method.py)__
 This script is indipendent of any machine learning libraries and focuses on direct system automation and web control to do the job. The navigation throughout the script is done in XML XPaths for the elements and entities on the website. _If you recieve any errors please update all xpaths for the website_. 
 
 __Note:__ When fetching dependencies for testing this file ONLY use 'Requirements(NO ML).txt' sice the other file will point to installation of machine learning libraries which might be of no use.
