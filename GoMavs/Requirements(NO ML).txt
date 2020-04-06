@@ -1,5 +1,0 @@
-numpy
-selenium
-pillow
-pywin32
-opencv-python
