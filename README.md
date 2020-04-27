@@ -14,8 +14,8 @@ This script is indipendent of any machine learning libraries and focuses on dire
 __Note:__ When installing dependencies and required packages use the 'Requirements.txt' in the installation procedure below.
 
 ## 2) Machine Learning typetext character recognition method 
-
 __(File name: \Scripts\DL CR method\CR_Method.py)__
+
 This script is a method partially moving towards Machine learning where Type Text Recognition network __Tessract__ takes over the final process of accepting your offer with OpenCV preview of the predictions of the network. 
 
 Eventhough you __need not__ to Train Tessract, a trainging script is still present if in case the webmasters of the website change to a font not detecteable by the network. 
