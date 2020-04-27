@@ -7,13 +7,20 @@ ________________________________________________________________________________
 ___Overview of files and contents___
 
 ## 1) Automation method 
-__(File name: Automation_Method.py)__
+__(File name: \Scripts\Automation method\Automation_Method.py)__
+
 This script is indipendent of any machine learning libraries and focuses on direct system automation and web control to do the job. The navigation throughout the script is done in XML XPaths for the elements and entities on the website. _If you recieve any errors please update all xpaths for the website_. 
 
-__Note:__ When fetching dependencies for testing this file ONLY use 'Requirements(NO ML).txt' sice the other file will point to installation of machine learning libraries which might be of no use.
+__Note:__ When installing dependencies and required packages use the 'Requirements.txt' in the installation procedure below.
 
-## 2) Machine Learning Method (File name:)
-This script 
+## 2) Machine Learning typetext character recognition method 
+
+__(File name: \Scripts\DL CR method\CR_Method.py)__
+This script is a method partially moving towards Machine learning where Type Text Recognition network __Tessract__ takes over the final process of accepting your offer with OpenCV preview of the predictions of the network. 
+
+Eventhough you __need not__ to Train Tessract, a trainging script is still present if in case the webmasters of the website change to a font not detecteable by the network. 
+
+__Note:__ When installing dependencies and required packages use the 'Requirements.txt' along the script in the respective directory in the installation procedure below.
 
 _______________________________________________________________________________________________
 ## Supported platforms
