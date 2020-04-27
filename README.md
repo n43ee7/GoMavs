@@ -41,4 +41,4 @@ Clone this repository and
 
 _________________________________________________________________________________________________
 ## Disclaimer!
-The contents of this repository are purely designed for educational purposes with motives for others to learn and seek aid for their projects. Every user advised to exercise caution during the run-time of this program as any malfunctions could caused by the script may lead to any action that could lead to unknown conclusions. Please __use at your own risk__ and ensure all code parameters before running.
+The contents of this repository are purely designed for educational purposes with motives for others to learn and seek aid for their projects. Every user advised to exercise caution during the run-time of this program as any malfunctions could caused by the script may lead to any action that could lead to unknown conclusions. You are advised to be very __cautious__ during the code runtime and ensure all code parameters before running since there may be changes to the website after the latest commit of this repository. <3
