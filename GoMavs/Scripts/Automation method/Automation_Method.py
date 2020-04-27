@@ -10,9 +10,10 @@
 #   This script is purely designed for educational purposes and there is no other intent. The user advised to exercise
 #   caution during the run-time of this program as any malfunctions could caused by the script may lead to any action
 #   that could lead to unknown conclusions. Please use at your own risk and ensure all parameters before running.
-#   ====================================================================================================================
+#                   ==========================================================================
 #
 #
+import os
 import win32api, win32con, pywintypes
 import tkinter as tk
 from win32con import *
@@ -22,8 +23,10 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 import datetime, time
 
+os.chdir('../..')                                                                                                       # Moving to the top of the project directory
+print("[!] System Directory Shifted to ", os.getcwd())
 url = "https://www.uta.edu/mymav/"                                                                                      # UTA WebPage URL
-service = Service('Chromedriver/chromedriver_80.exe')                                                                   # Root path to Chromedriver.exe
+service = Service(os.path.join('Chromedriver', 'chromedriver_80.exe'))                                                  # Root path to Chromedriver.exe
 service.start()
 driver = webdriver.Remote(service.service_url)
 uname = ''                                                                                                              # Global Var for Username
