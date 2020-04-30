@@ -5,11 +5,12 @@ ________________________________________________________________________________
 ___Overview of files and contents___
 
 ## 1) Machine Learning typetext character recognition method 
-__(File name: \Scripts\DL CR method\CR_Method.py)__
+__(File: \Scripts\DL CR method\CR_Method.py)__
 
 This script is a method partially moving towards Machine learning where LTSM Type Text Recognition network __Google Tessract__ takes over the final process of accepting your offer with OpenCV preview of the predictions of the network. 
 
 ## 2) Training Script
+__(File: \Scripts\DL CR method\Training.py)__
 
 This script is the optional training script which you would need to retrain __Tessract__. Eventhough you __need not__ to Train Tessract, a trainging script is still present if in case the webmasters of the website change to a font not detecteable by the network. 
 __Note:__ Enter the .ttf (be sure to name it 'font.ttf') file of the new font used on the website if you are to train Tesract in case it fails. 
