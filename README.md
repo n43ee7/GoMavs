@@ -25,19 +25,26 @@ __Note:__ When installing dependencies and required packages use the 'Requiremen
 _______________________________________________________________________________________________
 ## Supported platforms
 
-* Windows 7/8/10 with Chrome version 80 or later,  Python 3.x or later and Wolfram Mathematica _(optional if you are willing to retrain the classifier)_
+* Windows 7/8/10 with Chrome version 80 or later,  Python 3.x or later
 
 _______________________________________________________________________________________________
-# Installation
+# Installation and Running 
+
+## Installing project folder
+Clone this repository and unzip the files
 
 ## Installing Python dependencies using requirements.txt
-Move to virtual enviorment (if any) and use the following command to install the project dependencies.
-(Make sure you have pip3 and Python3.x installed on your machine)
+Move to virtual enviorment (if any) and use the following command to install the project dependencies and packages.
+(Make sure you have pip and Python3.x installed on your machine)
 
 ``` pip3 install -r Requirements.txt```
 
-## Installing project folder
-Clone this repository and 
+## Running The script
+Run the script by moving to the scripts folder and typing the following in the terminal opened in the relevant directory
+
+``` python3 'script_name'.py ```
+
+__Note:__ The 'script name' is the name of the script in the directory with the names given above
 
 _________________________________________________________________________________________________
 ## Disclaimer!
