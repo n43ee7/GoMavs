@@ -28,4 +28,7 @@ Run the script by moving to the scripts folder and typing the following in the t
 
 ``` python3 Automation_Method.py```
 
+
 ## Enjoy!
+If all the steps are sucessfull the script should take over to accept your offer in style :)
+Just be sure to follow up with the prompts where it asks you password and where you need to enter the SMS OTP since these measures will need to be done manually for security purposes.
