@@ -1,5 +1,4 @@
 # GoMavs  🐎 💻
-(add Travis CL tags before rollout)
  
 ### Be a Maverick 
 Automation scripts that will accept your offer for you while you record it or just chill.
