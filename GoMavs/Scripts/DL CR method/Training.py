@@ -61,8 +61,8 @@ scriptpath = os.getcwd()
 CS = list(string.ascii_letters) + list(string.digits)
 RTS = list(np.random.randint(10, 64, size=300)) + [64]                                   # Size = The amount of data files produced for learning Default file limit 8300
 S = [''.join(np.random.choice(CS, i)) for i in RTS]                                      # Generating the random strings
-fontpath = os.path.join(scriptpath, 'Fonts', 'arial.ttf')
-font = ImageFont.truetype(fontpath, 16)                               # Setting Text properties for Generating test data
+fontpath = os.path.join(scriptpath, 'Fonts', 'font.ttf')
+font = ImageFont.truetype(fontpath, 16)                                                  # Setting Text properties for Generating test data
 # The largest size needed
 MS = max(font.getsize(Si) for Si in S)
 # Computed offset

@@ -1,0 +1,9 @@
+selenium
+pillow
+pywin32
+python-tk
+opencv-python
+pytesseract
+numpy
+imutils
+numpy
