@@ -1,8 +1,10 @@
 # GoMavs  🐎 💻
  
 ### Be a Maverick 
-Automation scripts that will accept your offer for you while you record it or just chill.
+Automation scripts that will accept your offer for you while you record it or just chill. 
 
+
+_Sometimes AI but sometimes not. You know how it is when you are tryna protect the world from AI taking over and stuff_
 _______________________________________________________________________________________________
 ## Supported platforms
 
